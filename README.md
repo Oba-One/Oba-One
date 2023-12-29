@@ -1,4 +1,4 @@
-### Hi I'm Afolabi Aiyeloja
+### Hi I'm Afolabi
 
 - 🖥️ Been coding in Typescript primarily for over 5 years
 - 📜 Been writing smart contracts in Solidity for over 2 years
