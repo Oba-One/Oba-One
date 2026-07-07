@@ -1,10 +1,10 @@
-### Hi I'm Afolabi
+### Hi, I'm Afolabi 👋
 
-- 🖥️ Been coding in Typescript primarily for over 5 years
-- 📜 Been writing smart contracts in Solidity for over 2 years
-- 🛠️ Currently building the [Greenpill Dev Guild](https://app.charmverse.io/greenpill-dev-guild) 
-- 🌱 Learning Rust, Zero Knowledge Proofs, and IoT hardware
-- 🤝 Open to collaborating on [WEFA](https://why.wefa.app), [Waves](https://docs.google.com/presentation/d/14GG0bUyRBPSHkP_KFvxN04PnkaGQiGt7S0AZBddc90c/edit?usp=sharing) and [Greenpill Projects](https://github.com/greenpill-dev-guild)
-- 🧐 Looking for builders in AR Design, 3D Modeling, Game Design, Generative Art, and Zero Knowledge
-- 👋 You can find me on Telegram @afo_wefa and Discord @obaone
-- 🎶 Checkout some of my tunes on [Soundcloud](https://soundcloud.com/oba_one) and [podcast](https://youtu.be/Y0IkJCrvDU8?si=HtFAqUxaB1MKlDGw) discussing WEFA and Waves
+- 🖥️ Coding in TypeScript for over 6 years and writing Solidity for over 3
+- 🌱 Leading [Green Goods](https://greengoods.app), a mobile first, offline first platform that helps communities document, verify, and fund regenerative work across solar, agroforestry, education, and waste, live across 14 gardens on five continents
+- ☀️ Building [Tech and Sun](https://techandsun.com), a growing network of solar powered community learning hubs across Nigeria
+- 🛠️ Stewarding the [Greenpill Dev Guild](https://github.com/greenpill-dev-guild)
+- 🌌 Creating [WEFA](https://wefa.world), a spatial AR story world where students gain elemental abilities to restore ecological balance
+- 📚 Always learning, lately AI assisted coding, agent native interfaces, MCP servers, and local AI
+- 🎶 Making music as Oba One on [Soundcloud](https://soundcloud.com/oba_one)
+- 👋 Find me on Telegram @afo_wefa, Discord @obaone, or at [afolabi.info](https://afolabi.info)
